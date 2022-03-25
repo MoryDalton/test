@@ -1,3 +1,0 @@
-hello mory
-# test
-# test
